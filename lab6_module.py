@@ -9,23 +9,6 @@ MENUSHAPES = {
     5: "In danh sách các hình"
 } 
 
-
-
-# MAJORS = {"lập trình máy tính",
-#           "quản trị kinh doanh",
-#           "công nghệ kỹ thuật điều khiển và tự động hóa",
-#           "ứng dụng phần mềm",
-#           "xử lý dữ liệu",
-#           "thiết kế đồ họa",
-#           "quản trị dịch vị du lịch và lữ hành",
-#           "quản trị khách sạn",
-#           "quản lý vận tải và dịch vụ logistics",
-#           "công nghệ kỹ thuật cơ ký",
-#           "tiếng trung quốc",
-#           "tiếng hàn quốc",
-#           "tiếng anh",
-#           "tiếng nhật"}
-
 # Validation input 
 def safe_num_input(prompt):
     while True:
